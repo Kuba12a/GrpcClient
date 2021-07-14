@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{6A5EAC90-861A-4179-A4C2-AD2B9D856999}|Default">
+  <MonoDevelop.Ide.ItemProperties.GrpcTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GrpcTest/GrpcTest.csproj">
+    <Files>
+      <File FileName="GrpcTest/Program.cs" Line="31" Column="1" />
+      <File FileName="GrpcTest/Protos/greet.proto" Line="4" Column="1" />
+      <File FileName="GrpcTest/Protos/persons.proto" Line="1" Column="1" />
+      <File FileName="GrpcTest/Protos/customers.proto" Line="7" Column="32" />
+      <File FileName="GrpcTest/GrpcTest.csproj" Line="11" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GrpcTest" expanded="True">
+            <Node name="GrpcTest" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Protos" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
